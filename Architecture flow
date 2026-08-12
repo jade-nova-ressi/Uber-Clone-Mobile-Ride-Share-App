@@ -1,0 +1,6 @@
+flowchart TD
+    A[Expo mobile app] --> B[Authentication API]
+    A --> C[Maps and Places]
+    A --> D[Ride API]
+    D --> E[PostgreSQL]
+    D --> F[Stripe]
