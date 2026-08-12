@@ -1,0 +1,8 @@
+Map is blank: verify platform-specific API restrictions and billing configuration.
+
+Location denied: enable permissions in the emulator/device and handle denial states.
+
+Stripe fails: use test keys, confirm the payment-intent flow, and inspect server logs.
+
+JWT rejected: check expiry, issuer, signing secret, and device clock.
+
