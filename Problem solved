@@ -1,0 +1,1 @@
+Ride-share applications coordinate several stateful systems: user identity, live location, destination lookup, trip state, and payment. This project brings those workflows into one mobile experience.
