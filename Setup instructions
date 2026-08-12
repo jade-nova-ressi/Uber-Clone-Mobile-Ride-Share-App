@@ -1,0 +1,7 @@
+git clone https://github.com/jadenyangaresi/uber-clone-mobile.git
+cd uber-clone-mobile
+npm install
+cp .env.example .env
+npx expo start
+
+Use restricted development keys and Stripe test mode. Document the backend startup command after recovering the code.
