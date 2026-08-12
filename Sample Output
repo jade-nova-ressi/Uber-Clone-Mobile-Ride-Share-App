@@ -1,0 +1,5 @@
+
+Authentication: successful
+Route: [ADD SYNTHETIC ORIGIN] -> [ADD SYNTHETIC DESTINATION]
+Payment mode: Stripe test
+Ride state: completed
