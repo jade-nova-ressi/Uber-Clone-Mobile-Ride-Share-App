@@ -1,1 +1,1 @@
-# Uber-Clone-Mobile-Ride-Share-App
+This project is a full-stack mobile ride-sharing application that recreates the core workflow of requesting and paying for a ride. Built with React Native, Expo, TypeScript, Google Maps, Stripe, JWT authentication, and PostgreSQL, the app allows users to create an account, select pickup and destination locations, view route information, request a ride, and complete a test payment. It highlights Jade's experience with mobile development, geolocation, authentication, state management, relational databases, and payment integration.
